@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927635887739",
+    "firebase_url": "https://semi-reddit-app.firebaseio.com",
+    "project_id": "semi-reddit-app",
+    "storage_bucket": "semi-reddit-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927635887739:android:10a33f84426b9b9a42b4de",
+        "android_client_info": {
+          "package_name": "com.example.mainapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927635887739-ak40mn5nd59lgkl04m280j3f1if0k2qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mainapp",
+            "certificate_hash": "e53421554952dc1f0f3b8257c985477cc78c76ff"
+          }
+        },
+        {
+          "client_id": "927635887739-ns9fbftdqj6dumcdt9igtqt1b28an4bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqtoQf7mXVHga1E7oBx44OQnhvnZI13c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927635887739-ns9fbftdqj6dumcdt9igtqt1b28an4bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
